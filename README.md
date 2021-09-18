@@ -1,0 +1,2 @@
+# quikr
+Basic Quikr Clone
